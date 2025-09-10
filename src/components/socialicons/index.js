@@ -49,10 +49,10 @@ export const Socialicons = (params) => {
             </a>
           </li>
         )}
-        {socialprofils.twitch && (
+        {socialprofils.upwork && (
           <li>
-            <a href={socialprofils.twitch}>
-              <FaTwitch />
+            <a href={socialprofils.upwork}>
+              <FaYoutube/>
             </a>
           </li>
         )}
